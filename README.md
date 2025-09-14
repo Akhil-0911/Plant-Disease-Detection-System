@@ -1,12 +1,28 @@
 # 🌱 Plant Disease Detection System
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Plant--Disease--Detection--System-blue?logo=github)](https://github.com/Akhil-0911/Plant-Disease-Detection-System)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-Web%20App-green?logo=flask)](https://flask.palletsprojects.com/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch)](https://pytorch.org/)
+
 A comprehensive AI-powered web application for detecting plant diseases using deep learning, providing treatment recommendations, weather analysis, and Wikipedia-sourced disease information.
+
+## 🌟 Demo
+
+![Plant Disease Detection Demo](https://img.shields.io/badge/Live%20Demo-Coming%20Soon-yellow?style=for-the-badge)
+
+**🎯 Key Capabilities:**
+- Upload plant images and get instant disease detection
+- 99.66% accuracy AI classification across 38 plant diseases  
+- Real-time weather analysis for disease risk assessment
+- Wikipedia-sourced educational content about diseases
+- Detailed treatment recommendations and care instructions
 
 ## ⚡ Quick Start
 
 ```bash
 # 1. Navigate to project directory
-cd rakesh
+cd Plant-Disease-Detection-System
 
 # 2. Create and activate virtual environment
 python -m venv .venv
@@ -42,8 +58,8 @@ python app.py
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd rakesh
+git clone https://github.com/Akhil-0911/Plant-Disease-Detection-System.git
+cd Plant-Disease-Detection-System
 ```
 
 ### Step 2: Create Virtual Environment
@@ -110,7 +126,7 @@ python src/disease_analyzer.py
 ## 📁 Project Structure
 
 ```
-rakesh/
+Plant-Disease-Detection-System/
 ├── 🌐 app.py                          # Flask web application (main entry point)
 ├── 📦 requirements.txt                # Python dependencies
 ├── ⚙️ setup.py                       # Package configuration
@@ -281,7 +297,7 @@ python -c "from app import app; print('✅ Flask app ready')"
 
 ## 🤝 Contributing
 
-1. Fork the repository
+1. Fork the repository: https://github.com/Akhil-0911/Plant-Disease-Detection-System
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
@@ -301,9 +317,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For issues, questions, or contributions:
-- 📧 **Email**: [your-email@example.com]
-- 🐛 **Issues**: Create an issue on GitHub
-- 💬 **Discussions**: Use GitHub Discussions
+- � **Issues**: [GitHub Issues](https://github.com/Akhil-0911/Plant-Disease-Detection-System/issues)
+- � **Discussions**: [GitHub Discussions](https://github.com/Akhil-0911/Plant-Disease-Detection-System/discussions)
+- � **Repository**: https://github.com/Akhil-0911/Plant-Disease-Detection-System
 
 ---
 

@@ -1,0 +1,37 @@
+# Plant Disease Detection & Treatment System
+# Requirements for production deployment
+
+# Core ML/AI Dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=9.0.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Web Framework (Flask Application)
+flask>=2.3.0
+flask-cors>=4.0.0
+werkzeug>=2.3.0
+
+# API Integration
+requests>=2.28.0
+
+# File Handling & Security
+secure-filename>=1.0.0
+
+# Optional: FastAPI (alternative web framework)
+# fastapi>=0.100.0
+# uvicorn>=0.22.0
+
+# Image Processing
+opencv-python>=4.8.0
+
+# Development Dependencies
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Deployment
+gunicorn>=21.0.0
